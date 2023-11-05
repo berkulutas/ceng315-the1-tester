@@ -1,0 +1,9 @@
+Size: 16
+Median of three: 0
+Hoare: 0
+Array elements: {3915, 44795, 12484, 14437, 33048, 31229, 40058, 37836, 16932, 201, 29765, 16170, 38860, 28709, 41454, 4307}
+Swap: 46
+Average Distance: 1.13043
+Maximum Distance: 11
+Number of recursive calls: 21
+Sorted array: {44795, 41454, 40058, 38860, 37836, 33048, 31229, 29765, 28709, 16932, 16170, 14437, 12484, 4307, 3915, 201}

@@ -1,0 +1,9 @@
+Size: 14
+Median of three: 0
+Hoare: 0
+Array elements: {53239, 18490, 56602, 31633, 11640, 3443, 8856, 42110, 27917, 46096, 15534, 13189, 15215, 14193}
+Swap: 43
+Average Distance: 0.674419
+Maximum Distance: 4
+Number of recursive calls: 21
+Sorted array: {56602, 53239, 46096, 42110, 31633, 27917, 18490, 15534, 15215, 14193, 13189, 11640, 8856, 3443}

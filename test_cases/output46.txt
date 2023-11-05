@@ -1,0 +1,9 @@
+Size: 12
+Median of three: 1
+Hoare: 1
+Array elements: {52312, 41869, 41523, 49269, 13929, 25312, 54301, 6713, 31625, 27970, 24161, 56355}
+Swap: 10
+Average Distance: 3.8
+Maximum Distance: 11
+Number of recursive calls: 23
+Sorted array: {56355, 54301, 52312, 49269, 41869, 41523, 31625, 27970, 25312, 24161, 13929, 6713}

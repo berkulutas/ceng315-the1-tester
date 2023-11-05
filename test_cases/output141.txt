@@ -1,0 +1,9 @@
+Size: 13
+Median of three: 0
+Hoare: 0
+Array elements: {26076, 58989, 26773, 23439, 1830, 36980, 39632, 41011, 41939, 22617, 19046, 64417, 4773}
+Swap: 31
+Average Distance: 1.09677
+Maximum Distance: 10
+Number of recursive calls: 19
+Sorted array: {64417, 58989, 41939, 41011, 39632, 36980, 26773, 26076, 23439, 22617, 19046, 4773, 1830}

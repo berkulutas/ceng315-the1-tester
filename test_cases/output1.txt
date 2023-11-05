@@ -1,0 +1,9 @@
+Size: 6
+Median of three: 1
+Hoare: 0
+Array elements: {2039, 6605, 9122, 62233, 43305, 54100}
+Swap: 9
+Average Distance: 1.77778
+Maximum Distance: 3
+Number of recursive calls: 7
+Sorted array: {62233, 54100, 43305, 9122, 6605, 2039}

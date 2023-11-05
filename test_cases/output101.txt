@@ -1,0 +1,9 @@
+Size: 1
+Median of three: 0
+Hoare: 0
+Array elements: {23353}
+Swap: 0
+Average Distance: -nan
+Maximum Distance: 0
+Number of recursive calls: 1
+Sorted array: {23353}
