@@ -3,7 +3,7 @@ Median of three: 0
 Hoare: 0
 Array elements: {23353}
 Swap: 0
-Average Distance: -nan
+Average Distance: 0
 Maximum Distance: 0
 Number of recursive calls: 1
 Sorted array: {23353}
