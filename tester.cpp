@@ -8,7 +8,7 @@ void test() {
     bool hoare, median_of_3;
     int size;
 
-    long swap;
+    long swap =0;
     double avg_dist, max_dist;
 
     cin >> hoare >> median_of_3 >> size;
