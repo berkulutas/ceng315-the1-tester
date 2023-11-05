@@ -6,3 +6,5 @@
 ```
 python tester.py
 ```
+
+Thanks to @ogul1 for the feedback
