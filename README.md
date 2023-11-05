@@ -7,4 +7,4 @@
 python tester.py
 ```
 
-Thanks to @ogul1 for the feedback
+Thanks to [@ogul1](https://github.com/ogul1) for the feedback
